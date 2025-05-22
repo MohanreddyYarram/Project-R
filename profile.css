@@ -1,0 +1,36 @@
+
+
+h1 {
+    text-align: start;
+
+    
+}
+
+h3 {
+    color: white;
+    background-color: green;
+    border-style: dashed;
+    border-top-style: dotted;
+    border-bottom-style: groove;
+    border-width: 10px 20px;
+    border-color: blue red yellow
+    black;
+
+    margin: 10px 0 50px 0;
+    width: 200px;
+    padding: 20px 20px;
+    box-sizing:content-box;
+    height: 200px;
+    max-width: 100px;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+
+
+}
+
+body{
+    background-image: url("C:\Users\1000070224\OneDrive - Hexaware Technologies\Desktop\Project-R\img\farmer.webp");
+}

@@ -1,0 +1,13 @@
+table,th,td{
+    border: 1Px solid black;
+    
+    
+    
+}
+th,td{
+    background-color: aquamarine;
+    border-radius: 10px;
+    border-style: dotted;
+    border-color: blueviolet;
+    padding: 15px;
+}

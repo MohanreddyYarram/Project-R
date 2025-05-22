@@ -1,0 +1,37 @@
+body {
+    background-image: image("C:\Users\1000070224\OneDrive - Hexaware Technologies\Desktop\Project-R\img\farmer.webp");
+}
+
+img{
+    border: 1px solid black;
+    border-radius: 10px;
+    width:100%;
+
+}
+body {margin:0;}
+
+.icon-bar {
+  width: 100%;
+  background-color: rgb(13, 109, 34);
+  overflow:auto;
+
+}
+
+.icon-bar a {
+  float: left;
+  width: 20%;
+  text-align: center;
+  padding: 12px 0;
+  transition: all 0.3s ease;
+  color: rgba(158, 196, 21, 0.795);
+  font-size: 36px;
+  
+}
+
+.icon-bar a:hover {
+  background-color: rgb(10, 104, 133);
+}
+body{
+  background-image: url('C:\Users\1000070224\OneDrive - Hexaware Technologies\Desktop\Project-R\img\farmer.webp');
+  background-size: cover;
+}

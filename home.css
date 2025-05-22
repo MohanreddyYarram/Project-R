@@ -1,0 +1,24 @@
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th,td{
+    background-color: burlywood;
+}
+
+pre {
+    background-color: darksalmon;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: beige;
+}
+
+h1{
+    background-color: fuchsia;
+    color: azure;
+    text-align: center;
+    text-transform:uppercase;
+    
+}
+li{
+    color: goldenrod;
+}
